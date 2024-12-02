@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/2 - Updating the Component Class.md",
+                "file": "lessons/3 - Composing Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Updating the Component Class"
+              "title": "3 - Composing Components"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lessons/2 - Updating the Component Class.md",
+                "file": "lessons/3 - Composing Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Updating the Component Class"
+              "title": "Backlinks for 3 - Composing Components"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lessons/2 - Updating the Component Class.md",
+                "file": "lessons/3 - Composing Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2 - Updating the Component Class"
+              "title": "Outgoing links from 3 - Composing Components"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lessons/2 - Updating the Component Class.md"
+                "file": "lessons/3 - Composing Components.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Updating the Component Class"
+              "title": "Outline of 3 - Composing Components"
             }
           }
         ]
@@ -165,10 +165,11 @@
   },
   "active": "c5f455eb40fda3cb",
   "lastOpenFiles": [
-    "lessons/1 - Components in Angular.md",
     "lessons/2 - Updating the Component Class.md",
-    "lessons/0 - Introduction.md",
+    "lessons/3 - Composing Components.md",
     "README.md",
+    "lessons/0 - Introduction.md",
+    "lessons/1 - Components in Angular.md",
     "Untitled.md",
     "Welcome.md",
     "lessons"

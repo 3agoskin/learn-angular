@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/3 - Composing Components.md",
+                "file": "lessons/4 - Control Flow in Components - `@if`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Composing Components"
+              "title": "4 - Control Flow in Components - `@if`"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lessons/3 - Composing Components.md",
+                "file": "lessons/4 - Control Flow in Components - `@if`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3 - Composing Components"
+              "title": "Backlinks for 4 - Control Flow in Components - `@if`"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lessons/3 - Composing Components.md",
+                "file": "lessons/4 - Control Flow in Components - `@if`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3 - Composing Components"
+              "title": "Outgoing links from 4 - Control Flow in Components - `@if`"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lessons/3 - Composing Components.md"
+                "file": "lessons/4 - Control Flow in Components - `@if`.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3 - Composing Components"
+              "title": "Outline of 4 - Control Flow in Components - `@if`"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "c5f455eb40fda3cb",
   "lastOpenFiles": [
-    "lessons/2 - Updating the Component Class.md",
     "lessons/3 - Composing Components.md",
+    "lessons/4 - Control Flow in Components - `@if`.md",
+    "lessons/2 - Updating the Component Class.md",
     "README.md",
     "lessons/0 - Introduction.md",
     "lessons/1 - Components in Angular.md",

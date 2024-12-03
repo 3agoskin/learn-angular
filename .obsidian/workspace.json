@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lessons/5 - Control Flow in Components - `@for`.md",
+                "file": "lessons/6 - Property Binding in Angular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Control Flow in Components - `@for`"
+              "title": "6 - Property Binding in Angular"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lessons/5 - Control Flow in Components - `@for`.md",
+                "file": "lessons/6 - Property Binding in Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5 - Control Flow in Components - `@for`"
+              "title": "Backlinks for 6 - Property Binding in Angular"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lessons/5 - Control Flow in Components - `@for`.md",
+                "file": "lessons/6 - Property Binding in Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5 - Control Flow in Components - `@for`"
+              "title": "Outgoing links from 6 - Property Binding in Angular"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lessons/5 - Control Flow in Components - `@for`.md"
+                "file": "lessons/6 - Property Binding in Angular.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 5 - Control Flow in Components - `@for`"
+              "title": "Outline of 6 - Property Binding in Angular"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "c5f455eb40fda3cb",
   "lastOpenFiles": [
-    "lessons/4 - Control Flow in Components - `@if`.md",
     "lessons/5 - Control Flow in Components - `@for`.md",
+    "lessons/6 - Property Binding in Angular.md",
+    "lessons/4 - Control Flow in Components - `@if`.md",
     "lessons/3 - Composing Components.md",
     "lessons/2 - Updating the Component Class.md",
     "README.md",
